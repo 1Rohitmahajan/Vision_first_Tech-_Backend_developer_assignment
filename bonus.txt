@@ -1,0 +1,4 @@
+1.Use the program from Assignment 2 to generate data based on a student's email ID.
+2.Save the generated data as a JSON file.
+3.Use the program from Assignment 1 to read the JSON file containing the generated data and find the shortest path between the specified pair of nodes.
+4.Compare the obtained path with the expected path.
